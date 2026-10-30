@@ -1,9 +1,9 @@
 # Los Hollowheads
 
-Sitio multi-página para una banda/colectivo de Puerto Vallarta: inicio, galería, eventos, merch, blog y contacto.
+Página de Los Hollowheads, banda de Puerto Vallarta: el EP SOBRES, discografía, sesiones en vivo, la banda, shows, merch y contacto. Estética de zine hecho a mano con el arte de la banda.
 
 ## Stack
-HTML5 · CSS3 · sin frameworks — identidad tipográfica y visual propia.
+HTML5 · CSS3 · JS sin frameworks — identidad tipográfica y visual propia.
 
 ## Correr en local
 Es un sitio 100% estático — abre `index.html` directo en el navegador, o:
